@@ -1,5 +1,5 @@
 # NimHRS
-Nim Based HTTPS Reverse Shell, Work In Progress.
+Advanced Nim Based HTTPS Reverse Shell With Customization And Profile Support, Work In Progress.
 
 ## Todo
 - Make the client.
