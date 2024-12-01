@@ -9,6 +9,6 @@ Advanced Nim Based HTTPS Reverse Shell With Customization And Profile Support, W
 ## Features
 - Customization With Profiles.
 - Team Server Support (In The Future).
-- Simple & Clean Interface.
+- Simple & Clean Terminal Interface.
 
 
