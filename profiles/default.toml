@@ -1,0 +1,6 @@
+[c2Server]
+port = 3000
+endpoints = { sessionCreate = '/session', commandGet = '/command', commandOutput = '/output' }
+
+[fileServer]
+port = 5000
